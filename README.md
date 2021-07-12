@@ -12,7 +12,7 @@ This program uses the `stdio.h` header, so if you are compiling on Linux, you ne
 
 This program takes input from another program.
 
-> `[command] | [program-name] [color]
+> `[command] | [program-name] [color]`
 
 ### Colors
 
